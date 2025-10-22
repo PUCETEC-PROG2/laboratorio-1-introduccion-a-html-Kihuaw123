@@ -5,8 +5,8 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** [Ingresa tu nombre]
-**Carrera:** Desarrollo de Software
+**Nombre:** Kihuaw Apauki Chaves Bonilla
+**Carrera:**  Tecnologia en Desarrollo de Software
 
 ## Instrucciones
 
